@@ -1,0 +1,13 @@
+{
+  "name": "claude-hooks",
+  "description": "7 production-tested hooks for Claude Code: safety gate, context injection, auto-commits, style enforcement, model routing, session archiving, and completion notifications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rob Spence",
+    "url": "https://github.com/rjspence3"
+  },
+  "homepage": "https://github.com/rjspence3/claude-hooks",
+  "repository": "https://github.com/rjspence3/claude-hooks",
+  "license": "MIT",
+  "category": "development"
+}
